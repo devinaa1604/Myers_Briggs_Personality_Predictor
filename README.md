@@ -17,10 +17,10 @@ Our data set includes 8,600 rows of data. Each row is an individual person and i
 3. Is post length (i.e., number of words per post) predictive of personality type (e.g, introvert vs. extrovert)?
 
 ## Packages
-NLTK
-Spacey
-Wordcloud
-Tensor Flow
+- NLTK
+- Spacey
+- Wordcloud
+- Tensor Flow
 
 ## Methods
 1. Visualize the frequency of words used in social media posts by each Meyer-Briggs personality type.

@@ -1,2 +1,2 @@
 # Project2
-![](https://excellenceassured.com/16-personality-types/free-myers-briggs-type-personality-test)
+![](https://excellenceassured.com/wp-content/uploads/2015/09/16-personality-types.png)

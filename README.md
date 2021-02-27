@@ -1,4 +1,4 @@
-# Project2 - Myers-Briggs Personality Type Dataset
+# Project 2 - Myers-Briggs Personality Type
 ![](https://excellenceassured.com/wp-content/uploads/2015/09/16-personality-types.png)
 
 ## Background

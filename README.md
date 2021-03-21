@@ -22,12 +22,8 @@ We acknowledge the fact that all personality types are equal.
 3. Is post length (i.e., number of words per post) predictive of personality type (e.g, introvert vs. extrovert)?
 
 ## Tools & Modules Used
-
-Machine Learning - Natural Language Processing | Classification Models | Scikit Learn | NLTK | Sentiment Analyzer | Pipeline | Imbalance Learn | TF-IDF
-Data Analysis - Pandas | Numpy | Matplotlib
-APP – Flask | Python
-Templates – HTML | CSS | Bootstrap
-Deployment - GCP (Google Cloud Platform) | Docker
+- Machine Learning - Natural Language Processing | Classification Models | Scikit Learn | NLTK | Sentiment Analyzer | Pipeline | Imbalance Learn | TF-IDF
+- Data Analysis - Pandas | Numpy | Matplotlib
 
 ## Methodology
 

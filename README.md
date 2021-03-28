@@ -1,8 +1,8 @@
-# Project 2 - Myers-Briggs Personality Type
+# Myers-Briggs Personality Type Prediction
 ![](https://excellenceassured.com/wp-content/uploads/2015/09/16-personality-types.png)
 
 ## Background
-The Meyer-Briggs personality test categorizes an individual into 1 of 16 distinct personality types. Myer-Briggs classifies an individual along 4 binary classifications:
+The Myer-Briggs personality test categorizes an individual into 1 of 16 distinct personality types. Myer-Briggs classifies an individual along 4 binary classifications:
 * Introvert (I) or Extrovert (E)
 * Intuitive (N) or Sensing (S)
 * Thinking (T) or Feeling (F)
